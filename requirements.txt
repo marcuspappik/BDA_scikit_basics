@@ -6,3 +6,4 @@ notebook
 scipy
 sklearn
 scikit-learn
+matplotlib
